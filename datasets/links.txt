@@ -1,0 +1,14 @@
+https://www.kaggle.com/aludosan/myanimelist-anime-dataset-as-20190204
+https://www.kaggle.com/rounakbanik/pokemon
+https://www.kaggle.com/borapajo/food-choices
+https://www.kaggle.com/undp/human-development
+https://www.kaggle.com/danofer/wb-poverty
+https://www.kaggle.com/shashwatwork/impact-of-covid19-pandemic-on-the-global-economy
+https://www.kaggle.com/grosvenpaul/family-income-and-expenditure
+https://www.kaggle.com/grosvenpaul/dengue-cases-in-the-philippines
+https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
+https://www.kaggle.com/shivamb/netflix-shows
+https://www.kaggle.com/vatsalparsaniya/github-repositories-analysis
+https://www.kaggle.com/unitednations/international-energy-statistics
+https://www.kaggle.com/osmi/mental-health-in-tech-survey
+
